@@ -1,0 +1,19 @@
+{
+  "name": "ramdom-str-msg-max",
+  "version": "1.0.0",
+  "description": "Ramdom String messages-max",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maximiliano Cervantes <mc349821@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "ramdom-str-msg-max": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
